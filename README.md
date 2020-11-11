@@ -1,5 +1,5 @@
 # LinuxShortcuts
 
-###Linux Shortcuts and Bash Aliases file.
+### Linux Shortcuts and Bash Aliases file.
 
-#####Shortcuts for doing ROS sourcing, checking environment.
+##### Shortcuts for doing ROS sourcing, checking environment.
