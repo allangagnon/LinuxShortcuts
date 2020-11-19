@@ -8,7 +8,7 @@ alias lh="ls -lah"
 alias ll="ls -la"
 alias install="sudo apt-get install"
 alias v.ba="sudo vi ~/.bash_aliases"
-alias cs="clear"
+alias c.s="clear"
 
 ## Source Shortcuts ##
 alias s.b="source .bashrc"
